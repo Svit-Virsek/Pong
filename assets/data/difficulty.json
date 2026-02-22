@@ -1,0 +1,13 @@
+[
+    {
+        "easy":{
+            "speed":20
+        },
+        "medium":{
+            "speed":15
+        },
+        "hard":{
+            "speed":10
+        }
+    }
+]
